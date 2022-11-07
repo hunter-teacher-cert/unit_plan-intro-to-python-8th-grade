@@ -21,7 +21,7 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 * Python refernce sheet
 
 ### Resources
-https://www.codecademy.com/
+[Code Academy] (https://www.codecademy.com/)
 https://codehs.com/
 Math for Amerca Workshops
 
