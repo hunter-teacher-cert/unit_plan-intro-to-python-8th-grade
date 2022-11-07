@@ -32,7 +32,7 @@ Total length: 10 lessons
 * Lesson 2: Displaying Information Using Print function
 * Lesson 3: Getting Information Using  input Function
 * Lesson 4: Data Types
-# Summative Assessmet #1
+#### Summative Assessmet #1
 
 * Lesson 5: Math Operations 
 * Lesson 6: Practice Math Operations (Average Calculator Task)
@@ -43,14 +43,14 @@ Total length: 10 lessons
 
 * Lesson 9: While Loops 
 * Lesson 10: While Loops and Conditions
-### Summative Assessmnet #3
+#### Summative Assessmnet #3
 
 ## Future lessons
 * Conditionals
 * Summative Assessmnet: Dice Guessing Game 
 
 ## Assesments
-### Formative: 
+#### Formative: 
 Check in points along process/ Practice Problems in the class/Error Analysis/Debug/ Code Prediction/Assessing and Advancing questions throughout 
 the lesson/Homework 
 
