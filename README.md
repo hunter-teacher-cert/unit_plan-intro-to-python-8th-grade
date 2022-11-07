@@ -32,7 +32,7 @@ Total length: 10 lessons
 * Lesson 2: Displaying Information Using Print function
 * Lesson 3: Getting Information Using  input Function
 * Lesson 4: Data Types
-### Summative Assessmet #1
+# Summative Assessmet #1
 
 * Lesson 5: Math Operations 
 * Lesson 6: Practice Math Operations (Average Calculator Task)
