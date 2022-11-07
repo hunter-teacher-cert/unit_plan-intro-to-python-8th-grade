@@ -21,9 +21,9 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 * Python refernce sheet
 
 ### Resources
-[Code Academy](https://www.codecademy.com/)
-[Code HS](https://codehs.com/)
-Math for Amerca Workshops
+* [Code Academy](https://www.codecademy.com/)
+* [Code HS](https://codehs.com/)
+* Math for Amerca Workshops
 
 
 ### Lessons ( NOT COUNTING ASSESSING TIME AND PROJECT TIME)
@@ -50,11 +50,11 @@ Total length: 10 lessons
 * Summative Assessmnet: Dice Guessing Game 
 
 ### Assesments
-* Formative: 
+## Formative: 
 Check in points along process/ Practice Problems in the class/Error Analysis/Debug/ Code Prediction/Assessing and Advancing questions throughout 
 the lesson/Homework 
 
-* Summative:  
+## Summative:  
 
 * Summative# 1: Getting and Displaying Information
 * Summative# 2: Receipt calculator Using for loops
