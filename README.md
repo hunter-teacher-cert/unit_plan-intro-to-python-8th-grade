@@ -32,15 +32,13 @@ Total length: 10 lessons
 * Lesson 2: Displaying Information Using Print function
 * Lesson 3: Getting Information Using  input Function
 * Lesson 4: Data Types
-### Summative Assessmet #1 Getting and Displaying Information
-
+#### Summative Assessmet #1 Getting and Displaying Information
 * Lesson 5: Math Operations 
 * Lesson 6: Practice Math Operations (Average Calculator Task)
 
 * Lesson 7: For loops
 * Lesson 8: For loops and User Input
-### Summative Assessmnet#2 Receipt Calculator Using for Loops
-
+#### Summative Assessmnet#2 Receipt Calculator Using for Loops
 * Lesson 9: While Loops 
 * Lesson 10: While Loops and Conditions
 #### Summative Assessmnet #3 Password Guess Using While Loops
@@ -49,12 +47,15 @@ Total length: 10 lessons
 * Conditionals
 * Summative Assessmnet: Dice Guessing Game 
 
-## Assesments
-#### Formative: 
-Check in points along process/ Practice Problems in the class/Error Analysis/Debug/ Code Prediction/Assessing and Advancing questions throughout 
-the lesson/Homework 
+### Assesments
+### Formative: 
+* Check in points along process
+* Practice Problems in the class
+* Error Analysis/Debug/ Code Prediction
+* Assessing and Advancing questions throughout the lesson 
+* Homework 
 
-## Summative:  
+### Summative:  
 
 * Summative# 1: Getting and Displaying Information
 * Summative# 2: Receipt calculator Using for loops
