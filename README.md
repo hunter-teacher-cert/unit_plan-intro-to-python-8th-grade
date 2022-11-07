@@ -22,7 +22,7 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 
 ### Resources
 [Code Academy](https://www.codecademy.com/)
-https://codehs.com/
+[Code HS](https://codehs.com/)
 Math for Amerca Workshops
 
 
