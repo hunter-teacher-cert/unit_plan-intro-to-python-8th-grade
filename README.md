@@ -16,33 +16,49 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 7-8.CT.8 // 9-12.CT.8: Algorithms and Programming (Develop or remix a program that effectively combines one or more control structures for creative expression or to solve a problem. // Develop a program that effectively uses control structures in order to create a computer program for practical intent, personal expression, or to address a societal issue.)
 
 ### Tools Used
-* Thonny
+* w3schools
 * Repl.it
+* Python refernce sheet
 
 ### Resources
 https://www.codecademy.com/
-https://tealsk12.github.io/2nd-semester-introduction-to-computer-science/
+https://codehs.com/
+Math for Amerca Workshops
 
 
-### Lessons
-Total length: 8-10 lessons
-* variables
-* In/Out Operations
-* Data Type
-* Math Operations
-* For loops/While Loops
-* Conditionals/Nested Conditionals
-* Maybe Lists/build-in list commands ????
+### Lessons ( NOT COUNTING ASSESSING TIME AND PROJECT TIME)
+Total length: 10 lessons
+* Lesson 1:variables in Python
+* Lesson 2: Displaying Information Using Print function
+* Lesson 3: Getting Information Using  input Function
+* Lesson 4: Data Types
+* Summative Assessmet #1
+
+* Lesson 5: Math Operations 
+* Lesson 6: Practice Math Operations (Average Calculator Task)
+
+* Lesson 7: For loops
+* Lesson 8: For loops and User Input
+* Summative Assessmnet#2
+
+* Lesson 9: While Loops 
+* Lesson 10: While Loops and Conditions
+* Summative Assessmnet #3
+
+###Future lessons
+* Conditionals
+* Summative Assessmnet: Dice Guessing Game 
 
 ### Assesments
 * Formative: 
-Check points along process/Error analysis/Debug
+Check in points along process/ Practice Problems in the class/Error Analysis/Debug/ Code Prediction/Assessing and Advancing questions throughout 
+the lesson/Homework 
 
 * Summative:  
-Multiple Mini Projects such as:
-* Retiremnet calculator
-* Excercise tracker
-* Dice Guess Game
+
+* Summative# 1: Getting and Displaying Information
+* Summative# 2: Receipt calculator Using for loops
+* Summative# 3: Password Guess Using while loops
 
 
 
