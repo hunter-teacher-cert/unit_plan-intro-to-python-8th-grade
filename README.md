@@ -58,8 +58,9 @@ Total length: 10 lessons
 ### Summative:  
 
 * Summative# 1: Getting and Displaying Information
-* Summative# 2: Receipt calculator Using for loops
-* Summative# 3: Password Guess Using while loops
+* Formative # 2 Practice Math Operations
+* Summative# 3: Receipt calculator Using for loops
+* Summative# 4: Password Guess Using while loops
 
 
 
