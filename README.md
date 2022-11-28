@@ -23,8 +23,9 @@ I teach to 7th graders the game design unit of the CSD curriciulum/code.org. It 
 ### Resources
 * [Code Academy](https://www.codecademy.com/)
 * [Code HS](https://codehs.com/)
-* Math for Amerca Workshops
-
+* [thinkcspy](https://runestone.academy/ns/books/published/thinkcspy/index.html)
+* [Python Tutoria](https://www.w3schools.com/python/)
+* Math for America Workshops
 
 ### Lessons ( NOT COUNTING ASSESSING TIME AND PROJECT TIME)
 Total length: 10 lessons
