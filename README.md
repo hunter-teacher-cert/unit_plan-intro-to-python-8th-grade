@@ -55,6 +55,8 @@ Total length: 10 lessons
 * Practice Problems in the class
 * Error Analysis/Debug/ Code Prediction
 * Assessing and Advancing questions throughout the lesson 
+* Scaffolded Questions and Big Reveal
+* Trace Table
 * Homework 
 
 ### Summative:  
